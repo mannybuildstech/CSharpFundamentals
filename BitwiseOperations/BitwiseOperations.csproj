@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>36869f80-ef8f-4db4-bf8a-d85231af8b90</ProjectGuid>
+    <ProjectGuid>{E421FEBE-319B-463B-AF7E-413D3C88A7AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BitwiseOperations</RootNamespace>

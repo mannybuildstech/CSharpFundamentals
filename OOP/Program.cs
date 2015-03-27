@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance
+namespace OOP
 {
     class Program
     {
@@ -29,11 +29,14 @@ namespace Inheritance
          *  inheritance   - 
          *  polymorphism  -
          *  
-         */ 
+         */
+
+        //Concepts to show: 
+        //nested, virtual\abstract, base\inherited, indexers (generic classes), fields vs properties
+
 
         static void Main(string[] args)
         {
-            throw new NotImplementedException();
         }
     }
 }
