@@ -48,9 +48,13 @@ namespace OOP
         }
 
 
-        public override void TranslateAcrossUniverse()
+        /// <summary>
+        /// overriding the abstract celestial body method...
+        /// however, adding the virtual keyword allows a subclass to override it as well
+        /// </summary>
+        public virtual override void TranslateAcrossUniverse()
         {
-            
+            Console.WriteLine("Planets mostly move in circles around a star, but this could be different in some cases");
         }
     }
 }

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{CF18B530-C47A-4DFD-888B-5594B0D13D67}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TODO", "TODO", "{C5075C42-0A62-465E-8BAD-8D1750693446}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E421FEBE-319B-463B-AF7E-413D3C88A7AC} = {C5075C42-0A62-465E-8BAD-8D1750693446}
+		{8C5F51FF-6029-4132-B80D-1D85D39F7AFE} = {C5075C42-0A62-465E-8BAD-8D1750693446}
+		{5CC4A6AC-00C4-4243-861F-810A7FAC187A} = {C5075C42-0A62-465E-8BAD-8D1750693446}
+		{39D3EBA3-82E9-43AE-9E5D-99EEC4C3CA98} = {C5075C42-0A62-465E-8BAD-8D1750693446}
 	EndGlobalSection
 EndGlobal
